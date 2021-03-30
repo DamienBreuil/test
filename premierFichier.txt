@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 premiere modificaiton
 deuxieme modification ratée
 Troisieme modification
+=======
+premiere modificaiton
+>>>>>>> parent of 84a843b (deuxieme modif de premierFichier.txt)
